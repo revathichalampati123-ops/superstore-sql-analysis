@@ -79,10 +79,10 @@ The project is built using the following tables:
 ----Project Structure
 
 Superstore-SQL-Analysis
-│
-├── SUPERSTORE_ANALYSIS_SQL.sql
-├── Superstore_Dataset.xlsx
-└── README.md
+
+ SUPERSTORE_ANALYSIS_SQL.sql
+ Superstore_Dataset.xlsx
+ README.md
 
 ---How to Use
 
