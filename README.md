@@ -99,7 +99,7 @@ Superstore-SQL-Analysis
 * Top customers contributed major sales
 * Monthly sales trend identified
 
----Author
+---Author---
 
 Name: Revathi
 Role: Data Analyst SQL Project
